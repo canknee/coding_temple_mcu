@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+mcu_env
+__pycache__
+.env
+migrations
+app.db
